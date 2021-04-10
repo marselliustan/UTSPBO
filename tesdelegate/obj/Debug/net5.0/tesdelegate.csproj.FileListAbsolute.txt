@@ -1,0 +1,16 @@
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\tesdelegate.exe
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\tesdelegate.deps.json
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\tesdelegate.runtimeconfig.json
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\tesdelegate.runtimeconfig.dev.json
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\tesdelegate.dll
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\ref\tesdelegate.dll
+C:\Users\Marsellius\Desktop\C#\tesdelegate\bin\Debug\net5.0\tesdelegate.pdb
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.csprojAssemblyReference.cache
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.AssemblyInfoInputs.cache
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.AssemblyInfo.cs
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.csproj.CoreCompileInputs.cache
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.dll
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\ref\tesdelegate.dll
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.pdb
+C:\Users\Marsellius\Desktop\C#\tesdelegate\obj\Debug\net5.0\tesdelegate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\tesgeneric.exe
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\tesgeneric.deps.json
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\tesgeneric.runtimeconfig.json
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\tesgeneric.runtimeconfig.dev.json
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\tesgeneric.dll
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\ref\tesgeneric.dll
+C:\Users\Marsellius\Desktop\C#\tesgeneric\bin\Debug\net5.0\tesgeneric.pdb
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.csprojAssemblyReference.cache
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.AssemblyInfoInputs.cache
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.AssemblyInfo.cs
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.csproj.CoreCompileInputs.cache
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.dll
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\ref\tesgeneric.dll
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.pdb
+C:\Users\Marsellius\Desktop\C#\tesgeneric\obj\Debug\net5.0\tesgeneric.genruntimeconfig.cache
